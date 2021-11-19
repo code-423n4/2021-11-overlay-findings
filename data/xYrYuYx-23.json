@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "xYrYuYx",
+  "address": "0xa9A1C028E6a637c6F7FA119663E1f6736B726358",
+  "risk": "G",
+  "title": "_beforeTokenTransfer and _afterTokenTransfer functions are empty",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/23"
+}
