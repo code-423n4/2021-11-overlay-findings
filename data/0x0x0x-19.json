@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "2",
+  "title": "`OverlayV1Mothership` doesn't emit events",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/19"
+}
