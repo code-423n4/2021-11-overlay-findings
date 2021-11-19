@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "xYrYuYx",
+  "address": "0xa9A1C028E6a637c6F7FA119663E1f6736B726358",
+  "risk": "3",
+  "title": "transferMint and transferBurn don’t update totalSupply",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/21"
+}
