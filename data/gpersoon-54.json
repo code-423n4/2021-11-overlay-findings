@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "pow() is missing check on input parameters with 0 value",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/54"
+}
