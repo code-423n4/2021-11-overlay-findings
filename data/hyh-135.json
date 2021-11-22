@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "3",
+  "title": "OVL token shouldn't be available for substitution, needs to be set only once",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/135"
+}
