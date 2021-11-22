@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "3",
+  "title": "Wrong value of OI used during liquidation in OverlayV1OVLCollateral.sol",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/103"
+}
