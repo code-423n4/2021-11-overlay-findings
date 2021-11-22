@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "1",
+  "title": "Missing setter function for `OverlayV1Mothership#marginBurnRate`",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/84"
+}
