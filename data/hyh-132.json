@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "1",
+  "title": "OverlayV1UniswapV3Market constructor doesn’t check immutable variables to be set",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/132"
+}
