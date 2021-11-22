@@ -1,0 +1,9 @@
+{
+  "contest": "Overlay Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "_totalSupply not updated in _transferMint() and _transferBurn() ",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2021-11-overlay-findings/issues/59"
+}
